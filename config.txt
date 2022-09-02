@@ -1,1 +1,1 @@
-url = http://username:pAssW0rD!!1!@example.com/path/to/app
+url = http://username:pAssW0rD123@example.com/path/to/app
